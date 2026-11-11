@@ -98,7 +98,7 @@ A principal preocupação do projeto é impedir que o cliente saia do diretório
 
 ```bash
 # Clonar
-git clone https://github.com/<seu-usuario>/Simple-Docker-Archive-Explorer-Backend.git
+git clone https://github.com/YuriDiasNS/Simple-Docker-Archive-Explorer-Backend.git
 cd Simple-Docker-Archive-Explorer-Backend
 
 # Rodar em modo desenvolvimento
